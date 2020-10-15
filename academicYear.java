@@ -20,7 +20,7 @@ public class academicYear {
         year = stuID / 10000;
 
         System.out.println("Name: "+name);
-        // this line of code is not required
+        // academic number is not required in the output
         System.out.println("Academic number: "+stuID);
         System.out.println("Academic year: "+year);
 
