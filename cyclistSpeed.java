@@ -16,7 +16,7 @@ Display the acceleration and time on screen formatted to the below samples.
 */
 
 import java.util.Scanner;
-public class prob {
+public class cyclistSpeed {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         double initialSpeed,finalSpeed,duration,accelertation,time;
