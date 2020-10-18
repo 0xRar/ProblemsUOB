@@ -2,9 +2,8 @@ package com.company;
 
 /*
 The area of a triangle is computed by taking half the product of its base and height.
-Area = 1
-      ___ × base × height
-       2
+Area = 1/2 × base × height
+       
        
 Write a program that reads the base and height of a triangle and displays the area.
 
