@@ -17,15 +17,15 @@ public class temperature {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        double TMV,ExpectedTemp,currentTemp;
+        double MedianTemp,ExpectedTemp,currentTemp;
 
         System.out.print("Enter temperature median value: ");
-        TMV = input.nextDouble();
+        MedianTemp = input.nextDouble();
 
         System.out.print("Enter current temperature reading: ");
         currentTemp = input.nextDouble();
 
-        ExpectedTemp = 2 * TMV - currentTemp;
+        ExpectedTemp = 2 * MedianTemp - currentTemp;
 
         System.out.print("Expected temperature: "+ ExpectedTemp);
 
