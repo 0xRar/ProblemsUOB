@@ -33,5 +33,7 @@ public class energyNeeded {
         System.out.println("---------------------------------");
         System.out.println("The energy needed is : "+ Q);
         System.out.println("---------------------------------");
+        
+        // Isa Ebrahim(0xRar)
     }
 }
