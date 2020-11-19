@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 // IMPORTANT::: THIS PROBLEM WAS FROM TEST NUMBER 1.
 
-public class fertilizerTEST {
+public class fertilizer {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
