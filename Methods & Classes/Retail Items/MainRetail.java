@@ -26,4 +26,5 @@ public class MainRetail {
         System.out.println(Shirt.getDescription() +"\t\t\t\t"+ Shirt.getUnitsOnHold() +" \t\t"+ Shirt.getPrice());
 
     }
+    //  Isa Ebrahim(0xRar) 
 }
