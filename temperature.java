@@ -1,4 +1,3 @@
-package com.company;
 
 /*
 Write a Java program that will predict tomorrow’s temperature given today’s temperature readings. The program
