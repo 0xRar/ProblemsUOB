@@ -9,6 +9,6 @@ how to solve such problems or how to abroach them.
 ```
 
 ## What kind of problems are in this repo?
-`Input, Output Problems
-Loop Problems
-2 Classes,Methods,Objects Problems`
+- Input, Output Problems
+- Loop Problems
+- 2 Classes,Methods,Objects Problems
