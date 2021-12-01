@@ -1,7 +1,7 @@
 # ProblemsUOB
 ## ITCS113 UOB problems solved by (0xRar)
 
-## Descreption:
+## Description:
 ```
 a set of problems and answers from ITCS113 from University Of Bahrain,
 The main idea of the repo is to teach other students or new students
