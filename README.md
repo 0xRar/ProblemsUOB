@@ -1,5 +1,5 @@
 # ProblemsUOB
-## ITCS113 UOB problems solved by (0xRar)
+ITCS113 UOB problems solved by (0xRar)
 
 ## Description:
 ```
